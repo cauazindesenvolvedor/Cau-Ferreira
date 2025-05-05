@@ -1,14 +1,16 @@
 ## Olá 👋 Eu sou Cauã Ferreira
+Atualmente curso Desenvolvimento de Sistemas e estou dando meus primeiros passos no mundo da tecnologia. Tenho me dedicado a aprender não só a programar, mas também a entender como os sistemas funcionam de forma integrada, segura e eficiente.
 
-Sou Analista de Sistemas, educador e consultor em tecnologia, com foco em criar soluções inteligentes, escaláveis e seguras. 
+Gosto de resolver problemas com código e estou sempre em busca de novos desafios para colocar em prática o que venho estudando. A cada projeto, descubro algo novo — e isso me motiva ainda mais.
 
-Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, onde projeto ambientes em **nuvem pública, híbrida e soluções on-premise**, sempre com foco em **alta disponibilidade**, **resiliência**, **monitoramento contínuo** e **recuperação de desastres**. As arquiteturas são desenhadas para suportar o crescimento sustentável das aplicações, atendendo às demandas específicas de cada cliente.
+💻 Estudo linguagens como Java, JavaScript e estou aprendendo sobre bancos de dados e desenvolvimento web.
 
-- 💻 Experiência em **Java**, **Kotlin**, **Go (Golang)**, arquitetura de microsserviços e desenvolvimento backend.
-- ☁️ Profundo domínio em **DevOps**, containers, CI/CD, infraestrutura como código e automação.
-- 🔐 Interesso-me por **cibersegurança**, **redes neurais** e **inteligência artificial aplicada a sistemas críticos**.
-- 👨‍🏫 Atualmente, dedico parte do meu tempo ao ensino de tecnologia, produzindo conteúdos e oficinas práticas para alunos do ensino fundamental ao técnico.
-- 📚 Uso este repositório para compartilhar materiais, projetos e experiências com a comunidade.
+🔧 Me interesso bastante por infraestrutura, segurança da informação e automação de processos.
+
+🚀 Quero aprender mais sobre DevOps, inteligência artificial e como criar sistemas escaláveis.
+
+📘 Tenho usado este espaço para registrar minha jornada, compartilhar meus códigos, anotações e o que estou construindo no caminho.
+
 
 📫 Contato: cauazinff3690@gmail.com
 cauazindesenvolvedor
