@@ -1,7 +1,7 @@
 ## Olá 👋 Eu sou Cauã Ferreira
 Atualmente curso Desenvolvimento de Sistemas e estou dando meus primeiros passos no mundo da tecnologia. Tenho me dedicado a aprender não só a programar, mas também a entender como os sistemas funcionam de forma integrada, segura e eficiente.
 
-Gosto de resolver problemas com código e estou sempre em busca de novos desafios para colocar em prática o que venho estudando. A cada projeto, descubro algo novo — e isso me motiva ainda mais.
+ Estou sempre em busca de novos desafios para colocar em prática o que venho estudando. A cada projeto, descubro algo novo — e isso me motiva ainda mais.
 
 💻 Estudo linguagens como Java, JavaScript e estou aprendendo sobre bancos de dados e desenvolvimento web.
 
